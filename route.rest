@@ -1,0 +1,9 @@
+POST http://localhost:3000/animals
+Content-Type: application/json
+
+{
+	"name": "big boi",
+	"breed": "Schnauzer",
+	"size": "Lab(fat)",
+	"description": "This is going to be a fat one"
+}
